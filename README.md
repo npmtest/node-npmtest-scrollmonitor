@@ -1,4 +1,7 @@
-# test coverage for  [scrollmonitor (v1.2.3)](https://github.com/stutrek/scrollMonitor#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-scrollmonitor.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-scrollmonitor) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-scrollmonitor.svg)](https://travis-ci.org/npmtest/node-npmtest-scrollmonitor)
+# npmtest-scrollmonitor
+
+#### basic test coverage for  [scrollmonitor (v1.2.3)](https://github.com/stutrek/scrollMonitor#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-scrollmonitor.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-scrollmonitor) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-scrollmonitor.svg)](https://travis-ci.org/npmtest/node-npmtest-scrollmonitor)
+
 #### A simple and fast API to monitor DOM elements as you scroll
 
 [![NPM](https://nodei.co/npm/scrollmonitor.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/scrollmonitor)
